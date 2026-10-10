@@ -24,3 +24,9 @@ When adding or editing a case, update the affected principle pages as well.
 ## Languages
 
 Content is currently written in **English**. A Portuguese version is planned for the future.
+
+---
+
+<p align="center">
+  <sub><i>Per Aspera Ad Astra.</i></sub>
+</p>
